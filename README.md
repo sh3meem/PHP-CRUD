@@ -2,7 +2,9 @@ A PHP CRUD (Create, Read, Update, Delete) project is a basic web application tha
 
 Create: Adding new records to the database.
 Read: Displaying records from the database.
+
 Update: Modifying existing records in the database.
+
 Delete: Removing records from the database.
 
 
